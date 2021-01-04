@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InTourist</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">SIGN IN</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="gmail">GMAIL</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">sign in with</string>
+</resources>
